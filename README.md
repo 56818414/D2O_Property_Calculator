@@ -3,6 +3,8 @@ D2O 重水亚临界区物性计算核心（C#）
 D2O (Heavy Water) Subcritical Thermophysical Properties Core (C#)
 ================================================================
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22671104.svg)](https://zenodo.org/records/22671104)
+
 单文件 C# 实现，基于 IAPWS 官方重水热力学公式 R16-17(2018)
 （《IAPWS Formulation 2017 for the Thermodynamic Properties of Heavy
 Water Substance》）。
